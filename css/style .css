@@ -1,0 +1,101 @@
+*{
+margin: 0px 0px;
+}
+    
+body{ 
+    font-family: 'Poppins', sans-serif;
+
+}
+ body nav ul li{
+     display: inline-block;
+     color: white;
+     margin: 20px 20px;
+    margin-right: 100px;
+    
+    
+     
+     
+     
+ }
+ .list :hover{
+     background-color: white;
+ }  
+    nav{
+        background-color: green;
+        text-align: center;
+    
+    }
+.list{
+    padding-left: 150px;
+    margin-right: 500px;
+    
+    background-size: cover;
+    
+    
+}
+.img{
+    max-width: 100%;
+
+
+}
+.head{
+    color:white;
+    text-align: center;
+    padding: 250px;
+    
+    
+}
+body div{
+    background-image: url(../image.html/coding.jpg);
+    font-family: 'Poppins', sans-serif;
+}
+.h1{
+    font-size: 3rem;
+
+}
+.h3{
+    color:green;
+    text-align: center;
+    font-family: initial;
+    font-size: 2rem;
+    
+}
+.clas{
+    text-align: center;
+    font-size: 5rem;
+}
+#section{
+    background-size: cover;
+    text-align: center;
+    background-color: #19191ad8;
+    font-family: 'Poppins', sans-serif;
+    width: 0px auto;      
+    color: white;
+    
+    
+    
+    
+
+}
+
+
+.hr{
+background-color: rgb(8, 255, 8);
+     
+    
+}
+ul li{
+    text-align: center;
+    display: inline-block;
+    margin: 20px 50px;
+    
+
+
+    
+}
+
+ 
+
+
+
+
